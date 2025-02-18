@@ -4,6 +4,9 @@ layout: post
 description: "A complete guide to creating a structured study schedule for academic success."
 categories: [Study Tips, Productivity]
 tags: [time management, student life, learning]
+title: "Study Framework"
+date: 2025-02-18
+permalink: /studyframework/
 ---
 
 # The Ultimate Student Schedule Framework for Effective Studying
